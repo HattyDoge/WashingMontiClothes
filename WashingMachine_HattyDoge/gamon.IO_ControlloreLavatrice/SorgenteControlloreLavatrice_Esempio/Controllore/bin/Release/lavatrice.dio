@@ -1,0 +1,18 @@
+﻿16	Usato	Stato	Colore	Descrizione	CanalePLC	Simbolo	IsInput	Manuale
+0	True	False	0	Sensore porta aperta			False	False
+1	True	False	0	No centrifuga			False	False
+2	True	False	0	Livello basso acqua cestello			False	False
+3	True	False	0	Livello alto acqua cestello			False	False
+4	True	False	0	Termostato ON (acqua calda)			False	False
+5	True	False	0	Bottone accensione lavatrice			False	False
+6	True	False	0	Bottoniera Low (bit basso)			False	False
+7	True	False	0	Bottoniera High (bit alto)			False	False
+8	True	False	1	Velocità rotazione alta (Centrifuga)			True	False
+9	True	False	2	Rotazione oraria motore cestello			True	False
+10	True	False	3	Accensione motore cestello			True	False
+11	True	False	5	Risciacquo (acqua in vaschetta)			True	False
+12	True	False	5	Lavaggio (acqua in vaschetta)			True	False
+13	True	False	5	Prelavaggio (acqua in vaschetta)			True	False
+14	True	False	3	Scarico (apertura valvola scarico acqua)			True	False
+15	True	False	5	Riscaldatore (accensione riscaldatore)			True	False
+16	True	False	1	Meccanismo di blocco porta ON (porta bloccata)			True	False
